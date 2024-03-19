@@ -1,13 +1,7 @@
 # https://tea.xyz/what-is-this-file
-
 ---
-
 version: 1.0.0
-
 codeOwners:
-
   - '0x754314df1379828dc2676336982F46A42301a47D'
-
+  - '0x6e075cC3F6F09Cb2a96016cDBEc41c3df4113371'
 quorum: 1
-
-Registering an OSS Project - tea
